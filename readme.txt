@@ -19,6 +19,11 @@ MediaShowStyle is showing medias like PJBlog's style. it supports almost all aud
 3. Login to wordpress admin  and activate the plugin through the 'Plugins' menu
 4. Go to Option => MediaShowStyle tab to config the plugin option
 
+== Frequently Asked Questions ==
+
+= How to contact me? =
+If you have any doubt, Please contact me by eamil loongs.cn@gmail.com. I will respond ASAP.
+
 == MediaShowStyle Plugin Configuration Panel ==
 
 This section will allow you config the option whether the medias is display. Default is `checked`. Change to `unchecked` if you do not want to show it.
