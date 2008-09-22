@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: Loongs
-Donate link: http://blog.loongs.bplaced.com/
+Donate link: http://www.loonges.com/
 Tags: media, media show, media play, style
 Requires at least: 2.3
 Tested up to: 2.5
