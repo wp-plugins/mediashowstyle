@@ -4,7 +4,7 @@ Donate link: http://www.loonges.com/
 Tags: media, media show, media play, style
 Requires at least: 2.3
 Tested up to: 2.5
-Stable tag: 1.0
+Stable tag: 1.1
 
 Show medias like PJblog's style.
 
@@ -36,6 +36,8 @@ This section will allow you config the option whether the medias is display. Def
 
 == Arbitrary section ==
 
+* Version 1.1
+	* Add a type to support the video format flv
 * Version 1.0
 	* Initial version
 

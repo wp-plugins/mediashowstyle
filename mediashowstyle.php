@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Mediashowstyle
-Plugin URI: http://www.loonges.com/html/plugin/mediashowstyle-plugin.html
+Plugin URI: http://www.loonges.com/blog/plugin/mediashowstyle-plugin.html
 Description: Showing medias like PJblog's style, it supports almost all audio & video formats such as swf, wma, wmv, rm, ra, qt etc. You can be customized though <a href="options-general.php?page=mediashowstyle.php">MediaShowStyle tab</a> in the option panel within wordpress admin. See the <a href="http://www.loonges.com/wp-content/plugins/mediashowstyle/readme.txt">documentation</a> for syntax and usage.
 Version: 1.0
 Author: Loongs
