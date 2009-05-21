@@ -22,7 +22,7 @@ MediaShowStyle is showing medias like PJBlog's style. it supports almost all aud
 == Frequently Asked Questions ==
 
 = How to contact me? =
-If you have any doubt, Please contact me by eamil loongs.cn@gmail.com. I will respond ASAP.
+If you have any doubt, Please contact me by eamil wdps.cn@gmail.com. I will respond ASAP.
 
 == MediaShowStyle Plugin Configuration Panel ==
 
